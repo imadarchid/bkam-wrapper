@@ -17,9 +17,7 @@ npm install bkam-wrapper
 ## Usage
 
 ```js
-const BkamWrapper = require('bkam-wrapper');
-
-const bkamWrapper = new BkamWrapper();
+const bkamWrapper = require('bkam-wrapper');
 
 // Include your API keys from BKAM developer account
 const getData = new bkamWrapper({
