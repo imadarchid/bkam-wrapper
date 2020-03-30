@@ -1,0 +1,33 @@
+{
+  "name": "bkam-wrapper",
+  "description": "A Node.js wrapper for Bank Al-Maghrib's API",
+  "version": "1.0.0",
+  "author": "Imad Archid <imadarchid@gmail.com> (https://imadarchid.com)",
+  "bugs": {
+    "url": "https://github.com/imadarchid/bkam-wrapper/issues",
+    "email": "imadarchid@gmail.com"
+  },
+  "contributors": [
+    "Imad Archid <imadarchid@gmail.com> (https://imadarchid.com)"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.19.2"
+  },
+  "engines": {
+    "node": ">=8.3"
+  },
+  "homepage": "https://github.com/imadarchid/bkam-wrapper",
+  "keywords": [
+    "bkam",
+    "currency",
+    "bonds",
+    "morocco"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imadarchid/bkam-wrapper"
+  }
+}
