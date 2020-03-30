@@ -2,7 +2,7 @@
 
 > A Node.js wrapper for Bank Al-Maghrib's API
 
-This might help you get data from BKAM's API in your node.js apps easily. Make sure to register on the Developer's portal to get access to your API keys & take a look at the documentation.
+This might help you get data from BKAM's API in your node.js apps easily. Make sure to register on the [Developer's portal](https://apihelpdesk.centralbankofmorocco.ma/) to get access to your API keys & take a look at the documentation.
 
 For now only two products are offered: Currency Exchange Rates & Treasury Bonds reference interest rates
 
